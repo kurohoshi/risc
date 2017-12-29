@@ -1,2 +1,2 @@
 # risc
-a reimplimentation of Henessy &amp; Patterson's model RISC CPU
+a reimplimentation of Henessy & Patterson's model RISC CPU
